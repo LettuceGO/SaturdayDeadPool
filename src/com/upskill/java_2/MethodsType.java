@@ -65,7 +65,7 @@ public class MethodsType {
 		String name = "Queens is amazing";
 		System.out.println(name);
 	}
-	
+	//Test one two
 	
 	
 }
