@@ -23,14 +23,9 @@ public class Variables {
 	public void method2 (String county){
 		String city = "Bloomfield";
 		System.out.println(county);
-	
-	
-	
-	
-	
-	
+
 	}
-	
+//Test Git	
 	
 	 
 	
