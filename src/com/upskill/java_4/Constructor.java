@@ -34,18 +34,16 @@ public class Constructor {
 		System.out.println(obj.studenteye);
 		System.out.println(obj.studentHeight);
 		System.out.println(obj.studentDress);
-		System.out.println(obj3.studentage);
+	
 		
 		Constructor obj2 = new Constructor ("Tahin");
 		System.out.println(obj2.studentName);
 	}
 	
 	public Constructor (int value) {
-		studentAge = age;
+		
 	}
 	
-	Constructor obj3 = new Constructor (20);
-	System.out.println(obj3.studentAge);
+	
 
-}
 }

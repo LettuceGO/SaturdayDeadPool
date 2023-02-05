@@ -63,7 +63,8 @@ public class Array_HashMap_Hashset_HashTable {
 				car.add("Audi");
 				car.add("Ford");
 				
-				System.out.println("Car : " + car);
+
+		System.out.println("Car : " + car);
 				
 				
 				//HashTable store multiple data using key-Value pair, No duplicate, also is synchronized ( Only one thread can be modified)
@@ -73,7 +74,7 @@ public class Array_HashMap_Hashset_HashTable {
 				Region.put("BD", "Asia");
 				Region.put("USA", "America");
 				
-				System.out.println("Region : " + Region.get("BD" , "USA"));
+				System.out.println("Region : " + Region.get("BD"));
 				
 				
 			
